@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @radamejr
-- 👀 I’m interested in growing as a Junior Software Developer.
+- 👀 I’m interested in growing as a Software Developer.
 - 🌱 I’m currently learning anything I can get my hands on.
 - 💞️ I’m looking to collaborate on React/Python projects
 - 📫 How to reach me ... radamejr@gmail.com
